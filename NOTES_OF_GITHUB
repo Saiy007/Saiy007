@@ -1,0 +1,18 @@
+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
+
+
+
+1. In the third icon which is source control in vs, go there and press the clone rep, then it will be asking for the sign in of the github account sign in and access the above token code, paste it overthere. 
+
+2. Later it gives the repo which you have created in the github website. 
+
+3. TO commit a file, in the same menu, first it showes the file with U mark, you can see a + icon press on it, it goes it into A stage. 
+
+4. It asks the git log account to sign in VS code terminal. run the following cmd.
+
+git config --global user.name "Saiy007"	
+git config --global user.email "saisarany123@gmail.com" 
+
+5. After adding these in the terminal, press on the commit and again in the there dotes beside to source control press on it and select the push then it goes into to the github. 
+
+ 
